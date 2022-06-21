@@ -1,3 +1,4 @@
 /main.cpp
 /question.cpp
 *.exe
+.vscode
